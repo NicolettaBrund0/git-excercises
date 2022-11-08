@@ -2,7 +2,6 @@
 # Once you found the errors commit your changes :) .
 
 def sum_function(a, b):
-    a + b = total
-    return total
+    return a+b
 
 print(f"The sum is: {sum_func(10, 20)}")
